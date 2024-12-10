@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionDeUsuarios", "GestionDeUsuarios\GestionDeUsuarios.csproj", "{D1C89074-9538-4469-B1C8-74542E754107}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionUsuarioBussines", "GestionUsuarioBussines\GestionUsuarioBussines.csproj", "{12BE3382-9C01-48CA-A367-2FD4D1CDEADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1C89074-9538-4469-B1C8-74542E754107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C89074-9538-4469-B1C8-74542E754107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C89074-9538-4469-B1C8-74542E754107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C89074-9538-4469-B1C8-74542E754107}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12BE3382-9C01-48CA-A367-2FD4D1CDEADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12BE3382-9C01-48CA-A367-2FD4D1CDEADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12BE3382-9C01-48CA-A367-2FD4D1CDEADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12BE3382-9C01-48CA-A367-2FD4D1CDEADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
