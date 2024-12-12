@@ -28,6 +28,6 @@ Contar con:
 - Se Instaló AutoMapper.Collection
 - Se Instaló AutoMapper.EF6
 
-- Abir la consola de administrador de paquetes en Visual Studio y ejecutar Add-Migration InitialCreate y luego update-database
+- Abir la consola de administrador de paquetes en Visual Studio y ejecutar Add-Migration InitialCreate y luego update-database para generar base de datos
 
 
