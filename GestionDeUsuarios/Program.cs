@@ -20,9 +20,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
         new MySqlServerVersion(new Version(8, 0, 21))
     ));
 builder.Services.AddControllers();
-//builder.Services.AddControllers().AddNewtonsoftJson(options =>
-//options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore
-//);
+
 
 // Configurar servicios
 builder.Services.AddScoped<IUsuarioService, UsuarioService>();
