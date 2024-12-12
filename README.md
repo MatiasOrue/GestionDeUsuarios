@@ -1,13 +1,13 @@
 # Nombre del Proyecto 
 GestionDeUsuario
 ## Descripción 
-Crud api rests con swagger que se encarga de gestionar los usuarios, dando altas, buscar usuarios, eliminar usuarios y editarlos, contiene validaciones y un proyecto de test
+Crud Api Rest con Swagger que se encarga de gestionar los usuarios, dando altas, buscar usuarios, eliminar usuarios y editarlos, contiene validaciones y un proyecto de test
 ### Requisitos previos -
 Contar con: 
-Visual Studio 2022-
-.NET 6 - 
-MySQL-
-MySQL Workbench 
+- Visual Studio 2022-
+- .NET 6 - 
+- MySQL
+- MySQL Workbench 
 
 ## Instrucciones sobre cómo instalar y configurar el proyecto.
 - Clonar Repositorio
