@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionDeUsuarios", "GestionDeUsuarios\GestionDeUsuarios.csproj", "{D1C89074-9538-4469-B1C8-74542E754107}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "GestionUsuarioBussines\Domain.csproj", "{12BE3382-9C01-48CA-A367-2FD4D1CDEADA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{12BE3382-9C01-48CA-A367-2FD4D1CDEADA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{DFEA2CA5-B4BE-486C-9913-18DF9CE79658}"
 EndProject
