@@ -2,10 +2,12 @@
 GestionDeUsuario
 ## Descripción 
 Crud api rests con swagger que se encarga de gestionar los usuarios, dando altas, buscar usuarios, eliminar usuarios y editarlos, contiene validaciones y un proyecto de test
-### Requisitos previos - 
-Visual Studio 2022
-.NET 6 - MySQL
-MySQL Workbench instalados
+### Requisitos previos -
+Contar con: 
+Visual Studio 2022-
+.NET 6 - 
+MySQL-
+MySQL Workbench 
 
 ## Instalación Instrucciones sobre cómo instalar y configurar tu proyecto.
 -Clonar Repositorio
