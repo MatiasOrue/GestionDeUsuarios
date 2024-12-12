@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Net;
-using GestionUsuarioBussines.Models;
+using Domain.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace GestionUsuarioBussines.Infrastucture
+namespace Infrastucture.Persistence
 {
     public partial class AppDbContext : DbContext
     {

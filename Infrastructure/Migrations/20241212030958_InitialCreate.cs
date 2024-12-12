@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace GestionUsuarioBussines.Migrations
+namespace Infrastructure.Migrations
 {
     public partial class InitialCreate : Migration
     {
@@ -46,7 +46,7 @@ namespace GestionUsuarioBussines.Migrations
                         .Annotation("MySql:CharSet", "utf8mb4"),
                     Ciudad = table.Column<string>(type: "longtext", nullable: false)
                         .Annotation("MySql:CharSet", "utf8mb4"),
-                    FechaCreaciónDomicilio = table.Column<DateTime>(type: "datetime(6)", nullable: false)
+                    FechaCreacionDomicilio = table.Column<DateTime>(type: "datetime(6)", nullable: false)
                 },
                 constraints: table =>
                 {
