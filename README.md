@@ -9,24 +9,24 @@ Visual Studio 2022-
 MySQL-
 MySQL Workbench 
 
-## Instalación Instrucciones sobre cómo instalar y configurar tu proyecto.
+## Instrucciones sobre cómo instalar y configurar el proyecto.
 -Clonar Repositorio
--Instarlar paquetes EntityFrameworkCore
--Instarlar paquetes EntityFrameworkCore.Tools
--Instarlar paquetes EntityFrameworkCore.Desing
--Instalar Microsoft.EntityFrameworkCore.SqlServer
--Instalar Microsoft.EntityFrameworkCore.Relational
--Instalar Microsoft.EntityFrameworkCore.Sqlite
--Instalar MySql.Data
--Instalar Pomelo.EntityFrameworkCore.MySql
--Instalar paquete Fluent Validation
--Instalar Fluent Assertion
--Instalar Moq
--Instalar xunit
--Instalar NewtonSoft_sjon
--Instalar AutoMapper
--Instalar AutoMapper.Collection
--Instalar AutoMapper.EF6
+-Se Instaló paquetes EntityFrameworkCore
+-Se Instaló paquetes EntityFrameworkCore.Tools
+-Se Instaló paquetes EntityFrameworkCore.Desing
+-Se Instaló Microsoft.EntityFrameworkCore.SqlServer
+-Se Instaló Microsoft.EntityFrameworkCore.Relational
+-Se Instaló Microsoft.EntityFrameworkCore.Sqlite
+-Se Instaló MySql.Data
+-Se Instaló Pomelo.EntityFrameworkCore.MySql
+-Se Instaló paquete Fluent Validation
+-Se Instaló Fluent Assertion
+-Se Instaló Moq
+-Se Instaló xunit
+-Se Instaló NewtonSoft_sjon
+-Se Instaló AutoMapper
+-Se Instaló AutoMapper.Collection
+-Se Instaló AutoMapper.EF6
 
 -Abir la consola de administrador de paquetes en Visual Studio y ejecutar Add-Migration InitialCreate y luego update-database
 
